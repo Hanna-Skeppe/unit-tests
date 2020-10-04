@@ -1,3 +1,5 @@
 export const findIndex = (array, value) => {
-  return
-}
+    return array.indexOf(value)
+} 
+
+// https://stackoverflow.com/c/technigo/questions/265
